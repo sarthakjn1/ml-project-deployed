@@ -128,10 +128,12 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.artifacts
 .env
 .venev
 env/
 venev/
+artifacts/
 ENV/
 env.bak/
 venev.bak/
